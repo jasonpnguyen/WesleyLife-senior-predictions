@@ -1,0 +1,10 @@
+# Ignore R project files
+*.Rproj
+
+# Ignore large data files
+data/spm_pu_2022.sas7bdat
+
+# Ignore R temporary files
+.Rhistory
+.RData
+.Rproj.user/
