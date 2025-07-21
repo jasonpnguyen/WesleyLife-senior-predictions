@@ -34,9 +34,9 @@ list.files("data/")
 ```
 
 
-We will call all three data files above,
-CPS Data = "cps_00006.csv"
-ACS Data = "spm_pu_2022.sas7bdat"
+We will call all three data files above,  
+CPS Data = "cps_00006.csv"  
+ACS Data = "spm_pu_2022.sas7bdat"  
 Senior Population Data = "total_iowa_seniors_by_puma.csv"
 
 ## Reproduce
